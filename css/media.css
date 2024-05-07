@@ -1,0 +1,206 @@
+@media(max-width:768px){
+    .header-container {
+        width: 90%;
+            }
+        
+            .logo img{
+                width: 80%;
+            }
+            nav li a{
+                display: none;
+            }
+            .outer-nav{
+                display: none;
+            }
+        
+            .btn-box{
+                display: none;
+            }
+            #banner{
+                padding-bottom: 10px;
+            }
+            .banner-container{
+                width: 90%;
+                padding-bottom: 10px;
+            }
+        
+            .banner-text h2{
+        font-size: 18px;
+            }
+             .banner-box{
+                display: none;
+            }
+            .banner-info-box1{
+                display: none;
+            } 
+            .banner-info-box2{
+                display: none;
+            }
+            .banner-info-box3{
+                display: none;
+            }
+            .banner-info-box4{
+                display: none;
+            }
+            .banner-info-box5{
+                display: none;
+            }
+            .ban-btn button{
+                padding: 8px 20px;
+            }
+            .job-container{
+                width: 90%;
+            } 
+            .job-title h4{
+                font-size: 20px;
+            }
+            .featured-container{
+                width: 90%;
+            }  
+            .featured-title h3{
+                font-size: 20px;
+            }
+            .featured-content{
+                padding-top: 30px;
+                display: grid;
+                grid-template-columns: auto;
+                gap: 30px;
+                margin: auto;
+            }
+           
+         
+            .job-content{
+                display: grid;
+                grid-template-columns: auto auto;
+            } 
+            .listing-btn button{
+                margin:auto;
+                }
+                #testimonials{
+                    display: none;
+                }
+                #client{
+                    display: none;
+                }
+                .about-container{
+                    width: 90%;
+                } 
+                .about-image img{
+                    display: none;
+                }
+                .about-content{
+                    display: grid;
+                    grid-template-columns: auto;
+                }
+                .about-box{
+                    display: none;
+                }
+                .about-check-box{
+                    display: none;
+                }
+                .about-text h4{
+                    font-size: 20px;
+                }
+                .about-btn a button{
+                    padding: 8px 20px;
+                    margin: auto;
+                }
+                .count-container{
+                    width: 90%;
+                }
+                .article-container{
+                    width: 90%;
+                }
+                .article-content{
+                    display: flex;
+                    flex-direction: column;
+                }
+                .article-title h4{
+                    font-size: 20px;
+                }
+                .app-container{
+                    width: 90%;
+                }
+                .app-content{
+                    display: grid;
+                    grid-template-columns: auto;
+                }
+                .app-image{
+                    display: none;
+                }
+                .app-title{
+                    margin: auto;
+                }
+                .app-title h4{
+                    font-size: 20px;
+                }
+                .rating-container{
+                    width: 90%;
+                }
+                .rating-left h4{
+                    font-size: 20px;
+                }
+                .footer-container{
+                    width: 90%;
+                }
+                .footer-content{
+                    display: flex;
+                    flex-direction: column;
+                }
+                .logo img {
+                    width: 34%;
+                }
+                .down-container{
+                    width: 90%;
+                }
+                .down-content{
+                    flex-direction: column;
+                    gap: 20px;
+                }
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:576px){
+   
+
+    
+    .job-content {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+.featured-info{
+    display: none;
+}
+   .icon-box{
+    display: none;
+   }
+   .featured-text h4 a{
+    font-size: 14px;
+    padding: 5px 5px;
+   }
+   #count{
+    display: none;
+   }
+}
+
+
+
+@media(max-width:376px){
+    .featured-box{
+        margin: auto;
+    }
+    .featured-text h4 a{
+        font-size: 12px;
+    } 
+
+}
+
